@@ -1,0 +1,6 @@
+Source code pretrain model nằm trong đường link này (trong file 'train'):
+  https://drive.google.com/drive/folders/1TVsdPv0yYfhgw4uXNkYU-KbTODoV7XVH?usp=sharing
+
+trong file 'train' gồm:
+  + file 'arxiv-metadata-oai-snapshot.zip' gồm thông tin các bài báo của Axvir lấy trên Kaggle lưu dưới dạng file .json ( https://www.kaggle.com/datasets/Cornell-University/arxiv )                                                                                                                    
+  + file 'train_model.jpynb' lưu source code để train model dựa trên dữ liệu của Axvir. Lưu ý, mỗi lần chạy model có thể sẽ cho ra một kết quả khác nhau.
